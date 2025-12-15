@@ -1,0 +1,24 @@
+# Archivos compilados de Java
+*.class
+*.jar
+
+# Carpetas de compilación
+bin/
+out/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+
