@@ -1,0 +1,4 @@
+Vizualizar progreso en graficas
+implementar recompensas por mejora
+implementar área de rutinas
+remodelar la base de datos
